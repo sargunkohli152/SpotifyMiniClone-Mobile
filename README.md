@@ -1,4 +1,14 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+Spotify Mini Clone is a mobile application built with React Native that allows users to play tracks from a playlist, skip to the next and previous tracks, play and pause tracks, and see the song progress slider bar. It provides a simplified version of the Spotify music player experience on mobile devices.
+
+# Demo
+![ss1](assets/ss1.png)
+
+# Features
+- Play tracks from a playlist.
+- Skip to the next and previous tracks.
+- Play and pause tracks.
+- View the song progress slider bar to control playback position.
 
 # Getting Started
 
@@ -55,11 +65,9 @@ Now that you have successfully run the app, let's modify it.
 
    For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
 
-## Congratulations! :tada:
+You've successfully run and modified your React Native App.
 
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
+### Contributing
 
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
 - If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
@@ -67,13 +75,3 @@ You've successfully run and modified your React Native App. :partying_face:
 # Troubleshooting
 
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
